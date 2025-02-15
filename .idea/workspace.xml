@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7bd90bf0-4449-4a2e-9765-1e808307dfe3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2n9QMbPk2f3iCx4SK5zxfFUl3Gw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.242_validAnagram.executor": "Run",
+    "Python.3174_clearDigits.executor": "Run",
+    "Python.69_sqrtx.executor": "Run",
+    "Python.6_zigzag.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "A:/MUJ/SEMESTER 6/ISS LAB/LABWORK",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="?" />
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bd90bf0-4449-4a2e-9765-1e808307dfe3" name="Changes" comment="" />
+      <created>1728382764458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728382764458</updated>
+      <workItem from="1728382765885" duration="770000" />
+      <workItem from="1728383550839" duration="67000" />
+      <workItem from="1728383626188" duration="659000" />
+      <workItem from="1728420911786" duration="1153000" />
+      <workItem from="1728555017470" duration="156000" />
+      <workItem from="1732659518335" duration="441000" />
+      <workItem from="1737891270239" duration="4818000" />
+      <workItem from="1738008553103" duration="1509000" />
+      <workItem from="1738035090737" duration="1383000" />
+      <workItem from="1738090317837" duration="6000" />
+      <workItem from="1738131346566" duration="332000" />
+      <workItem from="1738161127447" duration="2090000" />
+      <workItem from="1738172012831" duration="37000" />
+      <workItem from="1738178530690" duration="2332000" />
+      <workItem from="1738217552140" duration="34000" />
+      <workItem from="1738607461170" duration="1871000" />
+      <workItem from="1738615008835" duration="1352000" />
+      <workItem from="1738677716083" duration="160000" />
+      <workItem from="1738819945016" duration="3331000" />
+      <workItem from="1738997067317" duration="11000" />
+      <workItem from="1739103206406" duration="1707000" />
+      <workItem from="1739107731497" duration="36000" />
+      <workItem from="1739209553392" duration="3580000" />
+      <workItem from="1739286145732" duration="38000" />
+      <workItem from="1739306141268" duration="1270000" />
+      <workItem from="1739458729632" duration="2807000" />
+      <workItem from="1739620428860" duration="4027000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcode$3174_clearDigits.coverage" NAME="3174_clearDigits Coverage Results" MODIFIED="1739212860110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$69_sqrtx.coverage" NAME="69_sqrtx Coverage Results" MODIFIED="1732659946111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$6_zigzag.coverage" NAME="6_zigzag Coverage Results" MODIFIED="1739459212276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$242_validAnagram.coverage" NAME="242_validAnagram Coverage Results" MODIFIED="1739631833432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
