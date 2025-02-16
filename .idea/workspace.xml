@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bd90bf0-4449-4a2e-9765-1e808307dfe3" name="Changes" comment="" />
+    <list default="true" id="7bd90bf0-4449-4a2e-9765-1e808307dfe3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/125_validpalindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/242_anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/242_anagram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/347_topKFrequent.py" beforeDir="false" afterPath="$PROJECT_DIR$/347_topKFrequent.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,8 +35,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.125_validpalindrome.executor": "Run",
     "Python.242_validAnagram.executor": "Run",
     "Python.3174_clearDigits.executor": "Run",
+    "Python.347_topKFrequent.executor": "Run",
     "Python.69_sqrtx.executor": "Run",
     "Python.6_zigzag.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -93,7 +100,13 @@
       <workItem from="1739286145732" duration="38000" />
       <workItem from="1739306141268" duration="1270000" />
       <workItem from="1739458729632" duration="2807000" />
-      <workItem from="1739620428860" duration="4027000" />
+      <workItem from="1739620428860" duration="4450000" />
+      <workItem from="1739634820949" duration="947000" />
+      <workItem from="1739644730592" duration="54000" />
+      <workItem from="1739718162771" duration="12000" />
+      <workItem from="1739720055873" duration="3585000" />
+      <workItem from="1739735586114" duration="46000" />
+      <workItem from="1739739353600" duration="939000" />
     </task>
     <servers />
   </component>
@@ -105,5 +118,7 @@
     <SUITE FILE_PATH="coverage/leetcode$69_sqrtx.coverage" NAME="69_sqrtx Coverage Results" MODIFIED="1732659946111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$6_zigzag.coverage" NAME="6_zigzag Coverage Results" MODIFIED="1739459212276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$242_validAnagram.coverage" NAME="242_validAnagram Coverage Results" MODIFIED="1739631833432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$347_topKFrequent.coverage" NAME="347_topKFrequent Coverage Results" MODIFIED="1739728334447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$125_validpalindrome.coverage" NAME="125_validpalindrome Coverage Results" MODIFIED="1739739636092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
