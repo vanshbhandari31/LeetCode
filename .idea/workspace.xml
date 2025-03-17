@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bd90bf0-4449-4a2e-9765-1e808307dfe3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/238_productArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2206_divideArrayPair.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/46_permutations.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/238_productArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/238_productArray.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +109,16 @@
       <workItem from="1739735586114" duration="46000" />
       <workItem from="1739739353600" duration="1162000" />
       <workItem from="1739777111815" duration="3202000" />
-      <workItem from="1739800586293" duration="2840000" />
+      <workItem from="1739800586293" duration="4410000" />
+      <workItem from="1739824155913" duration="4735000" />
+      <workItem from="1739876784820" duration="3280000" />
+      <workItem from="1739955360739" duration="19000" />
+      <workItem from="1740034350651" duration="192000" />
+      <workItem from="1740312661894" duration="2902000" />
+      <workItem from="1740514091605" duration="39000" />
+      <workItem from="1741803540655" duration="2974000" />
+      <workItem from="1742238279153" duration="24000" />
+      <workItem from="1742239695842" duration="599000" />
     </task>
     <servers />
   </component>
