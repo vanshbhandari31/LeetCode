@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bd90bf0-4449-4a2e-9765-1e808307dfe3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2206_divideArrayPair.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/46_permutations.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/238_productArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/238_productArray.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +115,8 @@
       <workItem from="1740514091605" duration="39000" />
       <workItem from="1741803540655" duration="2974000" />
       <workItem from="1742238279153" duration="24000" />
-      <workItem from="1742239695842" duration="599000" />
+      <workItem from="1742239695842" duration="1385000" />
+      <workItem from="1742269170744" duration="11000" />
     </task>
     <servers />
   </component>
