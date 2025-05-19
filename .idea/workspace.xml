@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bd90bf0-4449-4a2e-9765-1e808307dfe3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/3024_typeOfTriangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/49_groupanagram.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3024_typeOfTriangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/3024_typeOfTriangle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +126,8 @@
       <workItem from="1747508277434" duration="597000" />
       <workItem from="1747595037552" duration="2744000" />
       <workItem from="1747599468601" duration="2470000" />
-      <workItem from="1747635773420" duration="716000" />
+      <workItem from="1747635773420" duration="1600000" />
+      <workItem from="1747677563627" duration="2194000" />
     </task>
     <servers />
   </component>
