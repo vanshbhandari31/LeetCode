@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bd90bf0-4449-4a2e-9765-1e808307dfe3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/28_findfirstoccurance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3024_typeOfTriangle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,28 +31,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1079_letterTile.executor": "Run",
-    "Python.125_validpalindrome.executor": "Run",
-    "Python.242_validAnagram.executor": "Run",
-    "Python.28_findfirstoccurance.executor": "Run",
-    "Python.3174_clearDigits.executor": "Run",
-    "Python.347_topKFrequent.executor": "Run",
-    "Python.69_sqrtx.executor": "Run",
-    "Python.6_zigzag.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "A:/PRACTICE/leetcode",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1079_letterTile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.125_validpalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.242_validAnagram.executor&quot;: &quot;Run&quot;,
+    &quot;Python.28_findfirstoccurance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3174_clearDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Python.347_topKFrequent.executor&quot;: &quot;Run&quot;,
+    &quot;Python.69_sqrtx.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6_zigzag.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;A:/PRACTICE/leetcode&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="?" />
@@ -123,7 +123,9 @@
       <workItem from="1743541031330" duration="44000" />
       <workItem from="1744842255104" duration="959000" />
       <workItem from="1747508277434" duration="597000" />
-      <workItem from="1747595037552" duration="2623000" />
+      <workItem from="1747595037552" duration="2744000" />
+      <workItem from="1747599468601" duration="2470000" />
+      <workItem from="1747635773420" duration="716000" />
     </task>
     <servers />
   </component>
