@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bd90bf0-4449-4a2e-9765-1e808307dfe3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/49_groupanagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/49_groupanagram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/73_setMatrixZero.py" beforeDir="false" afterPath="$PROJECT_DIR$/73_setMatrixZero.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/73_setMatrixZero.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -125,7 +129,13 @@
       <workItem from="1747595037552" duration="2744000" />
       <workItem from="1747599468601" duration="2470000" />
       <workItem from="1747635773420" duration="1600000" />
-      <workItem from="1747677563627" duration="2785000" />
+      <workItem from="1747677563627" duration="3505000" />
+      <workItem from="1747733097139" duration="7062000" />
+      <workItem from="1748001750914" duration="6619000" />
+      <workItem from="1748063082965" duration="333000" />
+      <workItem from="1748111515396" duration="3142000" />
+      <workItem from="1748145898662" duration="2896000" />
+      <workItem from="1748189374911" duration="1774000" />
     </task>
     <servers />
   </component>
