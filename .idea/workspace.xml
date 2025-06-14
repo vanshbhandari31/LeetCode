@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bd90bf0-4449-4a2e-9765-1e808307dfe3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/78_subsets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2566_maxDiffByRemap.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/78_subsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/78_subsets.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +139,10 @@
       <workItem from="1748189374911" duration="4049000" />
       <workItem from="1748238085860" duration="4502000" />
       <workItem from="1748254094295" duration="667000" />
-      <workItem from="1748320002655" duration="4267000" />
+      <workItem from="1748320002655" duration="4980000" />
+      <workItem from="1748592386028" duration="2923000" />
+      <workItem from="1748664761060" duration="1346000" />
+      <workItem from="1749926305754" duration="1807000" />
     </task>
     <servers />
   </component>
