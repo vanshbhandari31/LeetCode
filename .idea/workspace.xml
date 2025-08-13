@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bd90bf0-4449-4a2e-9765-1e808307dfe3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/3_longestSubStringWithoutRepeat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/326_powerOfThree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -145,7 +145,9 @@
       <workItem from="1749964141685" duration="387000" />
       <workItem from="1750084029196" duration="7212000" />
       <workItem from="1750443729208" duration="129000" />
-      <workItem from="1752260916084" duration="3469000" />
+      <workItem from="1752260916084" duration="4138000" />
+      <workItem from="1752296806891" duration="42000" />
+      <workItem from="1755118895826" duration="963000" />
     </task>
     <servers />
   </component>
