@@ -1,8 +1,3 @@
-import math
-
-from PIL.SpiderImagePlugin import isInt
-
-
 class Solution(object):
     def isPowerOfThree(self, n):
         """
@@ -14,6 +9,3 @@ class Solution(object):
         while n%3==0:
             n=n/3
         return n==1
-
-
-
