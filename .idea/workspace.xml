@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bd90bf0-4449-4a2e-9765-1e808307dfe3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2264_Largest3SameDigitNum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2264_Largest3SameDigitNum2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1323_Maximum69Number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/326_powerOfThree.py" beforeDir="false" afterPath="$PROJECT_DIR$/326_powerOfThree.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +148,9 @@
       <workItem from="1752260916084" duration="4138000" />
       <workItem from="1752296806891" duration="42000" />
       <workItem from="1755118895826" duration="1808000" />
-      <workItem from="1755290793684" duration="3544000" />
+      <workItem from="1755290793684" duration="4171000" />
+      <workItem from="1755323720229" duration="18000" />
+      <workItem from="1755330035009" duration="475000" />
     </task>
     <servers />
   </component>
